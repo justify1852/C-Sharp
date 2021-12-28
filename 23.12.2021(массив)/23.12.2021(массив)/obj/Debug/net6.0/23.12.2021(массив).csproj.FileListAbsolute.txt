@@ -1,0 +1,15 @@
+D:\project\23.12.2021(массив)\23.12.2021(массив)\bin\Debug\net6.0\23.12.2021(массив).exe
+D:\project\23.12.2021(массив)\23.12.2021(массив)\bin\Debug\net6.0\23.12.2021(массив).deps.json
+D:\project\23.12.2021(массив)\23.12.2021(массив)\bin\Debug\net6.0\23.12.2021(массив).runtimeconfig.json
+D:\project\23.12.2021(массив)\23.12.2021(массив)\bin\Debug\net6.0\23.12.2021(массив).dll
+D:\project\23.12.2021(массив)\23.12.2021(массив)\bin\Debug\net6.0\ref\23.12.2021(массив).dll
+D:\project\23.12.2021(массив)\23.12.2021(массив)\bin\Debug\net6.0\23.12.2021(массив).pdb
+D:\project\23.12.2021(массив)\23.12.2021(массив)\obj\Debug\net6.0\23.12.2021(массив).csproj.AssemblyReference.cache
+D:\project\23.12.2021(массив)\23.12.2021(массив)\obj\Debug\net6.0\23.12.2021(массив).GeneratedMSBuildEditorConfig.editorconfig
+D:\project\23.12.2021(массив)\23.12.2021(массив)\obj\Debug\net6.0\23.12.2021(массив).AssemblyInfoInputs.cache
+D:\project\23.12.2021(массив)\23.12.2021(массив)\obj\Debug\net6.0\23.12.2021(массив).AssemblyInfo.cs
+D:\project\23.12.2021(массив)\23.12.2021(массив)\obj\Debug\net6.0\23.12.2021(массив).csproj.CoreCompileInputs.cache
+D:\project\23.12.2021(массив)\23.12.2021(массив)\obj\Debug\net6.0\23.12.2021(массив).dll
+D:\project\23.12.2021(массив)\23.12.2021(массив)\obj\Debug\net6.0\ref\23.12.2021(массив).dll
+D:\project\23.12.2021(массив)\23.12.2021(массив)\obj\Debug\net6.0\23.12.2021(массив).pdb
+D:\project\23.12.2021(массив)\23.12.2021(массив)\obj\Debug\net6.0\23.12.2021(массив).genruntimeconfig.cache
