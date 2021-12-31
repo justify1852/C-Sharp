@@ -1,0 +1,15 @@
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\bin\Debug\net6.0\24.12.2021(возраст).exe
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\bin\Debug\net6.0\24.12.2021(возраст).deps.json
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\bin\Debug\net6.0\24.12.2021(возраст).runtimeconfig.json
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\bin\Debug\net6.0\24.12.2021(возраст).dll
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\bin\Debug\net6.0\ref\24.12.2021(возраст).dll
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\bin\Debug\net6.0\24.12.2021(возраст).pdb
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\obj\Debug\net6.0\24.12.2021(возраст).csproj.AssemblyReference.cache
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\obj\Debug\net6.0\24.12.2021(возраст).GeneratedMSBuildEditorConfig.editorconfig
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\obj\Debug\net6.0\24.12.2021(возраст).AssemblyInfoInputs.cache
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\obj\Debug\net6.0\24.12.2021(возраст).AssemblyInfo.cs
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\obj\Debug\net6.0\24.12.2021(возраст).csproj.CoreCompileInputs.cache
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\obj\Debug\net6.0\24.12.2021(возраст).dll
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\obj\Debug\net6.0\ref\24.12.2021(возраст).dll
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\obj\Debug\net6.0\24.12.2021(возраст).pdb
+D:\project\24.12.2021(возраст)\24.12.2021(возраст)\obj\Debug\net6.0\24.12.2021(возраст).genruntimeconfig.cache
